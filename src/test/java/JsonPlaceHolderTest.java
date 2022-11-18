@@ -11,7 +11,7 @@ import java.util.Random;
 
 import static io.restassured.RestAssured.given;
 
-public class myFirstRestAssuredClass {
+public class JsonPlaceHolderTest {
 
     JsonPath jsonPath;
     int userid;
